@@ -252,4 +252,4 @@ url-shortener-api/
 └── README.md
 ```
 
-This project is based on the [URL Shortening Service project on roadmap.sh](https://roadmap.sh/projects/url-shortening-service)
+The project requirements are from [URL Shortening Service project on roadmap.sh](https://roadmap.sh/projects/url-shortening-service)
